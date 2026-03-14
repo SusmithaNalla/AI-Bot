@@ -40,4 +40,4 @@ https://ai-topic-explainer-ez9olowmi-muriki-sathvikas-projects.vercel.app/
 
 ## Author
 
-Murki Sathvika
+Susmitha Nalla
