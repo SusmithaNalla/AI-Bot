@@ -36,7 +36,7 @@ Open http://localhost:3000 in your browser.
 
 ## Live Demo
 
-https://ai-topic-explainer-ez9olowmi-muriki-sathvikas-projects.vercel.app/
+https://ai-topic-explainer-ez9olowmi-Nalla-susmitha-projects.vercel.app/
 
 ## Author
 
