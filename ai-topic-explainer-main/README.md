@@ -18,12 +18,6 @@ The user enters a topic and the application generates a simple explanation using
 - Gemini API
 - Vercel (Deployment)
 
-## Installation
-
-Clone the repository:
-
-git clone https://github.com/Sathvika2105/ai-topic-explainer.git
-
 Install dependencies:
 
 npm install
@@ -34,9 +28,6 @@ npm run dev
 
 Open http://localhost:3000 in your browser.
 
-## Live Demo
-
-https://ai-topic-explainer-ez9olowmi-Nalla-susmitha-projects.vercel.app/
 
 ## Author
 
